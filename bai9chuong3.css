@@ -1,0 +1,27 @@
+.header9{
+    height: 100px;
+    text-align: center;
+    color: white;
+    background-color:  #fcc2f9;
+    font-weight: bold;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
+.noidung{
+    display: flex;
+    flex-direction: row;
+}
+.sidebar{
+    width: 30vw;
+    background-color: #e7d5e6;
+    min-height: 10vh;
+}
+.noidungchinh{
+    padding: 10px;
+    width: 70vw;
+    background-color: #f3e3f3;
+    min-height: 30vh;
+}

@@ -1,0 +1,35 @@
+.doanvan{
+    color: hotpink;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+h1{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: right;
+    text-transform: uppercase;
+}
+.hoptietkiem{
+    margin: 40px;
+    border: 1px dotted;
+    border-bottom: 1px;
+    padding: 40px;
+    background-color: darksalmon;
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px cornflowerblue;
+    float: left;
+
+}
+.bai2{
+    margin:40px;
+    border: 10px cornflowerblue solid;
+    padding: 40px;
+    background-color: cadetblue;
+    height: 100px;
+    width: 150px;
+}

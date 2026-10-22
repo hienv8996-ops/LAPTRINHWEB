@@ -1,0 +1,58 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-color: azure;
+    text-align: center;
+}
+.form-dangnhap{
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+    box-shadow: 2px 2px 5px #a52e2e;
+    min-height: 400px;
+}
+.form-dangnhap h2{
+    color: #fd3ffd;
+    padding-top: 20px;
+}
+.form-dangnhap input{
+    color: #fd3ffd;
+    background-color: #f5f5f5;
+    border-radius:5px ;
+    border: 1px solid #70d81a;
+    height: 30px;
+    margin-top: 10px;
+    width: 350px;
+}
+.form-dangnhap input[type="text"], input[type="password"]{
+    background-color: aliceblue;
+    color: rgb(135, 73, 218);
+    border-radius: 5px;
+    border: 1px solid #70d81a;
+    margin-top: 20px;
+    width: 300px;
+    
+}
+.form-dangnhap input[type="submit"]{
+    background-color: #335c12;
+    color: rgb(94, 219, 219);
+    font-weight: bold;
+    height: 30px;
+    width: 200px;
+    border-radius: 15px;
+    border: 1px solid #70d81a;
+    margin-top: 20px;
+    
+}
+.form-dangnhap input[type="submit"]:hover{
+    background-color: #70d81a;
+    border: 1px solid #70d81a;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    height: 30px;
+    margin-top: 20px;
+    transition: 0.5s;
+}
