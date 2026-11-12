@@ -1,0 +1,26 @@
+footer{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    height: 200px;
+    background-color: rgb(21, 109, 25);
+}
+footer.cot{
+    margin-top: 20px;
+    width: 33%;
+
+} 
+footer.cot.h4{
+    font-weight: bold;
+}
+footer.ul{
+    list-style: none;
+}
+footer.a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+footer.a:hover{
+    color: rgb(162, 206, 93);
+}
